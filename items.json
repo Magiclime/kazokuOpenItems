@@ -1,13 +1,13 @@
 {
-    "0000":
+    "vanguard":
     {
         "itemName": "Vanguard",
         "damage": 0,
         "magic": 0,
         "poison": 0,
         "armor": 0,
-	"turnBlocks": 4,
-	"blockStrength": 150,
+		"turnBlocks": 4,
+		"blockStrength": 150,
         "str": 0,
         "int": 0,
         "agi": 0,
@@ -17,7 +17,7 @@
         "price": 5000,
         "tradePrice": 10
     },
-    "0001":
+    "blade_mail":
     {
         "itemName": "Blade Mail",
         "damage": 25,
@@ -34,7 +34,7 @@
         "price": 10000,
         "tradePrice": 10
     },
-    "0002":
+    "linkens_sphere":
     {
         "itemName": "Linken's Sphere",
         "damage": 10,
@@ -51,7 +51,7 @@
         "price": 20000,
         "tradePrice": 10
     },
-    "0003":
+    "heart_of_tarrasque":
     {
         "itemName": "Heart of Tarrasque",
         "damage": 0,
@@ -67,7 +67,7 @@
         "price": 30000,
         "tradePrice": 30
     },
-    "0004":
+    "black_king_bar":
     {
         "itemName": "Black King Bar",
         "damage": 25,
@@ -83,7 +83,7 @@
         "price": 35000,
         "tradePrice": 35
     },
-    "0005":
+    "monkey_king_bar":
     {
         "itemName": "Monkey King Bar",
         "damage": 40,
@@ -100,7 +100,7 @@
         "price": 17500,
         "tradePrice": 65
     },
-    "0006":
+    "javelin":
     {
         "itemName": "Javelin",
         "damage": 20,
@@ -117,7 +117,7 @@
         "price": 5000,
         "tradePrice": 10
     },
-    "0007":
+    "dagon":
     {
         "itemName": "Dagon",
         "damage": 50,
@@ -133,7 +133,7 @@
         "price": 19000,
         "tradePrice": 10
     },
-    "0008":
+    "rod_of_atos":
     {
         "itemName": "Rod of Atos",
         "damage": 0,
@@ -150,7 +150,7 @@
         "price": 22500,
         "tradePrice": 25
     },
-    "0009":
+    "veil":
     {
         "itemName": "Veil",
         "damage": 0,
@@ -167,7 +167,7 @@
         "price": 25000,
         "tradePrice": 25
     },
-    "0010":
+    "orchid_malevolence":
     {
         "itemName": "Orchid Malevolence",
         "damage": 	0,
@@ -185,7 +185,7 @@
         "price": 27500,
         "tradePrice": 27
     },
-    "0011":
+    "nullifier":
     {
         "itemName": "Nullifier",
         "damage": 0,
@@ -202,7 +202,7 @@
         "price": 35000,
         "tradePrice": 35
     },
-    "0012":
+    "euls_scepter_of_divinity":
     {
         "itemName": "Eul's Scepter Of Divinity",
         "damage": 0,
@@ -219,7 +219,7 @@
         "price": 17000,
         "tradePrice": 17
     },
-    "0013":
+    "desolator":
     {
         "itemName": "Desolator",
         "damage": 60,
@@ -235,7 +235,7 @@
         "price": 50000,
         "tradePrice": 50
     },
-    "0014":
+    "stygian_desolator":
     {
         "itemName": "Stygian Desolator",
         "damage": 75,
@@ -251,7 +251,7 @@
         "price": 57500,
         "tradePrice": 57
     },
-    "0015":
+    "mystic_staff":
     {
         "itemName": "Mystic Staff",
         "damage": 0,
@@ -267,7 +267,7 @@
         "price": 50000,
         "tradePrice": 90
     },
-    "0016":
+    "reaver":
     {
         "itemName": "Reaver",
         "damage": 50,
@@ -283,7 +283,7 @@
         "price": 50000,
         "tradePrice": 90
     },
-    "0017":
+    "eaglesong":
     {
         "itemName": "Eaglesong",
         "damage": 50,
@@ -299,7 +299,7 @@
         "price": 50000,
         "tradePrice": 90
     },
-    "0018":
+    "claymore":
     {
         "itemName": "Claymore",
         "damage": 10,
@@ -315,7 +315,7 @@
         "price": 1000,
         "tradePrice": 10
     },
-    "0019":
+    "magic_orb":
     {
         "itemName": "Magic Orb",
         "damage": 10,
@@ -331,7 +331,7 @@
         "price": 1000,
         "tradePrice": 10
     },
-    "0020":
+    "bladed_glove":
     {
         "itemName": "Bladed Glove",
         "damage": 10,
