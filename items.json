@@ -1,8 +1,8 @@
 {
     "none":
     {   
-        "itemName": "None!",
-        "damage": 0,
+        "itemName": "Wooden Spanker",
+        "damage": 10,
         "magic": 0,
         "poison": 0,
         "armor": 0,
