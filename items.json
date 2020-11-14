@@ -1,4 +1,22 @@
 {
+    "none":
+    {   
+        "itemName": "None!",
+        "damage": 0,
+        "magic": 0,
+        "poison": 0,
+        "armor": 0,
+		"turnBlocks": 0,
+		"blockStrength": 0,
+        "str": 0,
+        "int": 0,
+        "agi": 0,
+        "cooldown": 0,
+        "level": 0,
+        "rarity": 0,
+        "price": 0,
+        "tradePrice": 0
+    },
     "vanguard":
     {
         "itemName": "Vanguard",
