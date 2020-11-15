@@ -2,6 +2,7 @@
     "wooden_spatula":
     {   
         "itemName": "Wooden Spatula",
+        "texture": "",
         "damage": 10,
         "magic": 0,
         "poison": 0,
@@ -20,6 +21,7 @@
     "vanguard":
     {
         "itemName": "Vanguard",
+        "texture": "",
         "damage": 0,
         "magic": 0,
         "poison": 0,
@@ -38,6 +40,7 @@
     "blade_mail":
     {
         "itemName": "Blade Mail",
+        "texture": "",
         "damage": 25,
 		"returnDamage": 80, 
         "magic": 0,
@@ -55,6 +58,7 @@
     "linkens_sphere":
     {
         "itemName": "Linken's Sphere",
+        "texture": "",
         "damage": 10,
 		"turnBlocks": 4,
         "magic": 10,
@@ -72,6 +76,7 @@
     "heart_of_tarrasque":
     {
         "itemName": "Heart of Tarrasque",
+        "texture": "",
         "damage": 0,
         "magic": 0,
         "poison": 0,
@@ -88,6 +93,7 @@
     "black_king_bar":
     {
         "itemName": "Black King Bar",
+        "texture": "",
         "damage": 25,
         "magic": 0,
         "poison": 0,
@@ -104,6 +110,7 @@
     "monkey_king_bar":
     {
         "itemName": "Monkey King Bar",
+        "texture": "",
         "damage": 40,
         "magic": 0,
         "poison": 0,
@@ -121,6 +128,7 @@
     "javelin":
     {
         "itemName": "Javelin",
+        "texture": "",
         "damage": 20,
         "magic": 20,
         "poison": 0,
@@ -138,6 +146,7 @@
     "dagon":
     {
         "itemName": "Dagon",
+        "texture": "",
         "damage": 50,
         "magic": 50,
         "poison": 0,
@@ -154,6 +163,7 @@
     "rod_of_atos":
     {
         "itemName": "Rod of Atos",
+        "texture": "",
         "damage": 0,
         "magic": 0,
 		"rooting": 2, 
@@ -171,6 +181,7 @@
     "veil":
     {
         "itemName": "Veil",
+        "texture": "",
         "damage": 0,
 		"turnBlocks": 4,
         "magic": 30,
@@ -188,6 +199,7 @@
     "orchid_malevolence":
     {
         "itemName": "Orchid Malevolence",
+        "texture": "",
         "damage": 	0,
 		"turnBlocks": 4,
         "magic": 0,
@@ -206,6 +218,7 @@
     "nullifier":
     {
         "itemName": "Nullifier",
+        "texture": "",
         "damage": 0,
         "magic": 50,
         "poison": 0,
@@ -223,6 +236,7 @@
     "euls_scepter_of_divinity":
     {
         "itemName": "Eul's Scepter Of Divinity",
+        "texture": "",
         "damage": 0,
 		"turnBlocks": 2,
         "magic": 0,
@@ -240,6 +254,7 @@
     "desolator":
     {
         "itemName": "Desolator",
+        "texture": "",
         "damage": 60,
         "magic": 60,
         "poison": 0,
@@ -256,6 +271,7 @@
     "stygian_desolator":
     {
         "itemName": "Stygian Desolator",
+        "texture": "",
         "damage": 75,
         "magic": 75,
         "poison": 0,
@@ -272,6 +288,7 @@
     "mystic_staff":
     {
         "itemName": "Mystic Staff",
+        "texture": "",
         "damage": 0,
         "magic": 50,
         "poison": 0,
@@ -288,6 +305,7 @@
     "reaver":
     {
         "itemName": "Reaver",
+        "texture": "",
         "damage": 50,
         "magic": 0,
         "poison": 0,
@@ -304,6 +322,7 @@
     "eaglesong":
     {
         "itemName": "Eaglesong",
+        "texture": "",
         "damage": 50,
         "magic": 0,
         "poison": 0,
@@ -320,6 +339,7 @@
     "claymore":
     {
         "itemName": "Claymore",
+        "texture": "",
         "damage": 10,
         "magic": 10,
         "poison": 0,
@@ -336,6 +356,7 @@
     "magic_orb":
     {
         "itemName": "Magic Orb",
+        "texture": "",
         "damage": 10,
         "magic": 10,
         "poison": 0,
@@ -352,6 +373,7 @@
     "bladed_glove":
     {
         "itemName": "Bladed Glove",
+        "texture": "",
         "damage": 10,
         "magic": 10,
         "poison": 0,
