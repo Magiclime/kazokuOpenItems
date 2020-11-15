@@ -2,7 +2,7 @@
     "wooden_spatula":
     {   
         "itemName": "Wooden Spatula",
-        "texture": "",
+        "texture": "<:Spatula:777529709508296774>",
         "damage": 10,
         "magic": 0,
         "poison": 0,
