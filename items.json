@@ -23,7 +23,8 @@
     {
         "itemName": "Vanguard",
         "texture": "",
-	"description": "",
+	"description": "Gives you 250HP, Gives you 5 STR and grants 1 attack to block 150 damage, Has a cooldown of 4 turns..
+",
         "damage": 0,
         "magic": 0,
         "poison": 0,
@@ -43,7 +44,8 @@
     {
         "itemName": "Blade Mail",
         "texture": "",
-	"description": "",
+	"description": "Gives 25 damage to attacks and gives 5 armor, it returns damage back to person for 80% for 2 turns.
+",
         "damage": 25,
 		"returnDamage": 80, 
         "magic": 0,
@@ -62,7 +64,7 @@
     {
         "itemName": "Linken's Sphere",
         "texture": "",
-	"description": "",    
+	"description": "10 to all attributes, gives additional 10 INT and 5 AGI. It also has a passive feature to block 1 attack only with a 4 turn cooldown.",    
         "damage": 10,
 		"turnBlocks": 4,
         "magic": 10,
@@ -81,7 +83,7 @@
     {
         "itemName": "Heart of Tarrasque",
         "texture": "",
-	"description": "",    
+	"description": "Gives 40 STR and 400 HP gain 1 INT per 1% HP.",    
         "damage": 0,
         "magic": 0,
         "poison": 0,
@@ -99,7 +101,7 @@
     {
         "itemName": "Black King Bar",
         "texture": "",
-	"description": "",    
+	"description": "Gives you 10 STR, 25 damage to attacks and it also grants spell immunity for 2 turns. (You cannot take any magic damage)",    
         "damage": 25,
         "magic": 0,
         "poison": 0,
@@ -117,7 +119,7 @@
     {
         "itemName": "Monkey King Bar",
         "texture": "",
-	"description": "",    
+	"description": "Gives you 40 damage per hit, 5 armor, 5 STR, 5 INT, 5 AGI and has a 80% chance to deal 80 bonus damage on hit.",    
         "damage": 40,
         "magic": 0,
         "poison": 0,
@@ -136,7 +138,7 @@
     {
         "itemName": "Javelin",
         "texture": "",
-	"description": "",    
+	"description": "Gives you 20 damage per hit, 20 magic damage per hit, gives 15 AGI and has a 45% chance to deal 45 bonus damage on hit.",    
         "damage": 20,
         "magic": 20,
         "poison": 0,
@@ -155,10 +157,11 @@
     {
         "itemName": "Dagon",
         "texture": "",
-	"description": "",    
+	"description": "50 Damage on use and it reduces opponent health by 25% for 4 turns.",    
         "damage": 50,
         "magic": 50,
         "poison": 0,
+	"debuff": 25,
         "armor": 0,
         "str": 0,
         "int": 20,
@@ -173,7 +176,7 @@
     {
         "itemName": "Rod of Atos",
         "texture": "",
-	"description": "",    
+	"description": "20 intelligence, 10 strength and roots an enemy so they cannot attack for 2 turns.",    
         "damage": 0,
         "magic": 0,
 		"rooting": 2, 
@@ -192,7 +195,7 @@
     {
         "itemName": "Veil",
         "texture": "",
-	"description": "",    
+	"description": "Increases magic damage you give to someone by 20%. 4 turn cooldown.",    
         "damage": 0,
 		"turnBlocks": 4,
         "magic": 30,
@@ -211,7 +214,7 @@
     {
         "itemName": "Orchid Malevolence",
         "texture": "",
-	"description": "",    
+	"description": "Gives 40 INT, 30 STR and 20 AGI. It also silences the person for 8 seconds and has a cooldown of 4 turns once the silence has ended.",    
         "damage": 	0,
 		"turnBlocks": 4,
         "magic": 0,
@@ -231,7 +234,7 @@
     {
         "itemName": "Nullifier",
         "texture": "",
-	"description": "",    
+	"description": "Gives 50 INT, 30 STR, 20 AGI. It also silences for 12 seconds. If you deal damage during this time they will also recieve 30% more as a curse after the 12 seconds.",    
         "damage": 0,
         "magic": 50,
         "poison": 0,
@@ -250,7 +253,7 @@
     {
         "itemName": "Eul's Scepter Of Divinity",
         "texture": "",
-	"description": "",    
+	"description": "Gives 10 INT and 20 AGI. Launches you into the air for 1 turn only. 2 turn cooldown.",    
         "damage": 0,
 		"turnBlocks": 2,
         "magic": 0,
@@ -269,7 +272,7 @@
     {
         "itemName": "Desolator",
         "texture": "",
-	"description": "",   
+	"description": "Gives 60 pure damage and 60 magic damage for every attack.",   
         "damage": 60,
         "magic": 60,
         "poison": 0,
@@ -287,7 +290,7 @@
     {
         "itemName": "Stygian Desolator",
         "texture": "",
-	"description": "",    
+	"description": "Gives 75 pure damage and 75 magic damage for every attack.",    
         "damage": 75,
         "magic": 75,
         "poison": 0,
@@ -305,7 +308,7 @@
     {
         "itemName": "Mystic Staff",
         "texture": "",
-	"description": "",    
+	"description": "Deals 50 damage on use and gives 50 INT passively.",    
         "damage": 0,
         "magic": 50,
         "poison": 0,
@@ -323,7 +326,7 @@
     {
         "itemName": "Reaver",
         "texture": "",
-	"description": "",    
+	"description": "Deals 50 damage on use and gives 50 STR passively.",    
         "damage": 50,
         "magic": 0,
         "poison": 0,
@@ -341,7 +344,7 @@
     {
         "itemName": "Eaglesong",
         "texture": "",
-	"description": "",    
+	"description": "Deals 50 damage on use and gives 50 AGI passively.",    
         "damage": 50,
         "magic": 0,
         "poison": 0,
@@ -359,7 +362,7 @@
     {
         "itemName": "Claymore",
         "texture": "",
-	"description": "",    
+	"description": "Deals 10 pure damage and 10 magic damage, gives 10 Armor, 10 STR, 5 INT and 5 AGI.",    
         "damage": 10,
         "magic": 10,
         "poison": 0,
@@ -377,7 +380,7 @@
     {
         "itemName": "Magic Orb",
         "texture": "",
-	"description": "",   
+	"description": "Deals 10 pure damage and 10 magic damage, gives 5 STR, 10 INT and 5 AGI.",   
         "damage": 10,
         "magic": 10,
         "poison": 0,
@@ -395,7 +398,7 @@
     {
         "itemName": "Bladed Glove",
         "texture": "",
-	"description": "",    
+	"description": "Deals 10 pure damage and 10 magic damage, gives 5 STR, 5 INT and 10 AGI.",    
         "damage": 10,
         "magic": 10,
         "poison": 0,
